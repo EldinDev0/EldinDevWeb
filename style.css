@@ -1,0 +1,50 @@
+.Web-Name {
+    background-color: orange;
+    color: black;
+    font-family: monospace;
+    text-align: center;
+}
+
+.About-Me {
+    background-color: orange;
+    color: black;
+    font-family: monospace;
+    font-size: large;
+    text-align: center;
+}
+
+.itch-io-button {
+    background-color: rgb(196, 230, 173);
+    font-family: monospace;
+    border-radius: 3.5%;
+    border-color: black;
+    border-style: hidden;
+    font-size: large;
+    color: black;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    padding: 15px 35px;
+}
+
+.goodmilk {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.goodmilk2 {
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+body {
+    background-color: orange;
+}
